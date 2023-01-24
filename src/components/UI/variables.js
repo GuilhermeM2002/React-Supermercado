@@ -6,4 +6,4 @@ export const gray100 = "#E1E1E6"
 
 export const green200 = "#CFE8A9";
 
-export const sand200 = "##FFFDE3";
+export const sand200 = "#FFFDE3";
