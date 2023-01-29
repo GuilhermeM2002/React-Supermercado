@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { gray100, red800 } from "./variables";
+import { gray100, gray800, red800 } from "./variables";
 
 export const ShoppingCart = styled.img`
   color: ${red800};
@@ -21,3 +21,14 @@ export const ButtonSubmit = styled.button`
   width: 248px;
 `
 
+export const HeaderStyle = styled.header`
+  align-items: center;
+  display: flex;
+  margin: 32px 36px;
+  justify-content: space-between;
+`
+export const HeaderTitle = styled.h1`
+  color: ${gray800};
+  font-size: 20px;
+  font-weight: bold;
+`

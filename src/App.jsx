@@ -1,16 +1,12 @@
-import FormLogin from "./components/Form"
 import { GlobalStyle } from "./components/GlobalStyle"
-import LoginFooter from "./components/LoginFooter"
-import LoginHeader from "./components/LoginHeader"
+import Rotas from "./Routes"
 
 function App() {
 
   return (
     <>
       <GlobalStyle />
-      <LoginHeader />
-      <FormLogin />
-      <LoginFooter />
+      <Rotas />
     </>
     
   )

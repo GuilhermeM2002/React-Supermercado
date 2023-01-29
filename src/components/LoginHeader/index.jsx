@@ -3,7 +3,7 @@ import styled from "styled-components"
 import { ShoppingCart } from "../UI"
 import {red800, red600} from "../UI/variables"
 
-import shoppingCart from "../../assets/images/shoppingCart.svg"
+import shoppingCart from "/images/shoppingCart.svg"
 
 const Header = styled.header`
   align-items: center;

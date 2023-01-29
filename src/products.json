@@ -1,0 +1,31 @@
+{
+  "maca" : {
+    "nome" : "Maçã",
+    "preco" : "2,00",
+    "imagem" : "/images/maca.png"
+  },
+  
+  "laranja" : {
+    "nome" : "Laranja",
+    "preco" : "0,50",
+    "imagem" : "/images/laranja.png"
+  },
+
+  "beringela" : {
+    "nome" : "Beringela",
+    "preco" : "4,00",
+    "imagem" : "/images/beringela.png"
+  },
+
+  "couveFlor" : {
+    "nome" : "Couve-flor",
+    "preco" : "4,50",
+    "imagem" : "/images/couve-flor.png"
+  },
+
+  "pitaya" : {
+    "nome" : "Pitaya",
+    "preco" : "9,50",
+    "imagem" : "/images/pitaya.png"
+  }
+}
